@@ -12,8 +12,7 @@ See https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock
 # Ultimate Arduino Nano ESP32 PCB
 Special designed for a RGB(W) and white led strip word clock.
 
-
-[One PCB with two several possibilities](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock)
+[Soldering instructions for One PCB with two several possibilities](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock)
 
 ![NanoESP32V003PCB](https://github.com/user-attachments/assets/22a7ba0e-0e0a-483a-a803-4cac12787072)
 
