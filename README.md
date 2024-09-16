@@ -1,3 +1,10 @@
+# Nano ESP32 word clocks.
+On this page PCB (printed circuit boards) designs are shown designed for the Arduino Nano ESP32. The referring pages explains how to built and control the clock. 
+
+The smallest PCB is to built a word clock with WS2812 or SK6812 LED-strips.
+
+The larges PCB is designed to use shift registers to turn on white 12V LEDs connected to one of the 24 pins. With this PCB it is also possible to use WS2812/SK6812 and many more hardware.
+
 # Arduino Nano ESP32 PCB
 PCB for Nano ESP32 for SK6812/WS2812 LED strip, DS3231 RTC, 74AHCT125 Level shifter
 
