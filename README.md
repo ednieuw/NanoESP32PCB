@@ -8,7 +8,7 @@ The larger Ultimate Arduino Nano ESP32 PCB is designed to use shift registers to
 The Arduino Nano ESP32 small PCB is a small PCB with  connections for a DS3231 RTC module and a rotary. It is designed for small spaces.
 The DS3231 RTC module can be used in places without a WIFI connection.
 
-The Arduino Nano ESP32 HC595 shiftregister PCB is for small places with only pulse width modulation from 5V to 12V. Rorary and DS3231 must be made with wires. The PCB is nice for testing of to be used in small spaces in a clock. It has 32 lines to switch 12V LEDs of relais.
+The Arduino Nano ESP32 HC595 shiftregister PCB is for small places with only pulse width modulation from 5V to 12V. Rotary and DS3231 must be connected with wires. The PCB is nice for testing or to be used in small spaces in a clock. It has 32 lines to switch 12V LEDs.
 
 # Arduino Nano ESP32 PCB
 PCB for Nano ESP32 for SK6812/WS2812 LED strip, DS3231 RTC, 74AHCT125 Level shifter
