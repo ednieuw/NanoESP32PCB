@@ -1,9 +1,9 @@
 # Nano ESP32 word clocks.
 On this page PCB (printed circuit boards) designs are shown designed for the Arduino Nano ESP32. The referring pages explains how to built and control the clock. 
 
-The smallest PCB is to built a word clock with WS2812 or SK6812 LED-strips.
+The Arduino Nano ESP32 PCB is to built a word clock with WS2812 or SK6812 LED-strips.
 
-The larges PCB is designed to use shift registers to turn on white 12V LEDs connected to one of the 24 pins. With this PCB it is also possible to use WS2812/SK6812 and many more hardware.
+The larger Ultimate Arduino Nano ESP32 PCB is designed to use shift registers to turn on white 12V LEDs connected to one of the 24 pins. With this PCB it is also possible to use WS2812/SK6812 and many more hardware.
 
 # Arduino Nano ESP32 PCB
 PCB for Nano ESP32 for SK6812/WS2812 LED strip, DS3231 RTC, 74AHCT125 Level shifter
@@ -25,3 +25,13 @@ Special designed for a RGB(W) and white led strip word clock.
 
 ![V003PCB3D](https://github.com/user-attachments/assets/cb444fba-6033-4208-a78f-6140238521d5)
 ![V003PCB2D](https://github.com/user-attachments/assets/229abf0c-8183-42c5-ab3f-3929a6f7c0e5)
+
+# Arduino Nano ESP32 small PCB
+
+![V01SmallNanoESP32-3D](https://github.com/user-attachments/assets/3cbaeeb8-033d-4a96-bb78-8305fb31b7e7)
+
+![V01SmallNanoESP32](https://github.com/user-attachments/assets/631a7059-251f-4fd8-96d1-af974e23e4f4)
+
+# Arduino Nano ESP32 HC595 shiftregister PCB
+
+![V01-ESP32-HC595-3D](https://github.com/user-attachments/assets/6047da68-eb7f-4b65-94bd-2603567507c3)
