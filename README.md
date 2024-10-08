@@ -34,8 +34,7 @@ Special designed for a RGB(W) and white led strip word clock.
 # Arduino Nano ESP32 small PCB
 
 ![V01SmallNanoESP32-3D](https://github.com/user-attachments/assets/3cbaeeb8-033d-4a96-bb78-8305fb31b7e7)
-
-![V01SmallNanoESP32](https://github.com/user-attachments/assets/631a7059-251f-4fd8-96d1-af974e23e4f4)
+![V02SmallNanoESP32](https://github.com/user-attachments/assets/501bf471-74e4-4573-9262-48af6a39ac0d)
 
 # Arduino Nano ESP32 HC595 shiftregister PCB
 
