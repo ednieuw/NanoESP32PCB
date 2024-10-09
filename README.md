@@ -33,8 +33,16 @@ Special designed for a RGB(W) and white led strip word clock.
 
 # Arduino Nano ESP32 small PCB
 
-![V01SmallNanoESP32-3D](https://github.com/user-attachments/assets/3cbaeeb8-033d-4a96-bb78-8305fb31b7e7)
-![V02SmallNanoESP32](https://github.com/user-attachments/assets/501bf471-74e4-4573-9262-48af6a39ac0d)
+This PCB is designed to be used in the small side of a clock. It contains the minimum amount of parts.
+There are connections for an optional rotary encoder to control the optional DS3232 RTC time module when WIFI/NTP is not available.
+
+[See here for the word clock for this PCB](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclockhttps://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock)
+
+![V02 Small Nano ESP32](https://github.com/user-attachments/assets/8e74c62e-4558-4bc3-980b-12116fde90aa)
+
+![V02 Small Nano ESP32-3D](https://github.com/user-attachments/assets/5982dfa4-df37-43ca-9d5b-2ef0064d8268)
+
+
 
 # Arduino Nano ESP32 HC595 shiftregister PCB
 
