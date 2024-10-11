@@ -21,14 +21,18 @@ See https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock
 ![NanoESP32-V04-2D](https://github.com/user-attachments/assets/619cf270-53bd-4515-a15f-15e4fcc81632)
 
 
-# Ultimate Arduino Nano ESP32 PCB
-[Special designed for a RGB(W)](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock) and white led strip word clock.(https://github.com/ednieuw/Woordklok-witte-LEDs)
+# [Ultimate Arduino Nano ESP32 PCB](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock)
+
+[Special designed for a RGB(W)](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock) and white led strip word clock.(https://github.com/ednieuw/Woordklok-witte-LEDs).
+
 
 Designs V001, V003 and V004 has missing connections as shown on the pictures. 
 Design V002 is without errors ready to use. 
 PCB design V005 has some minor part and text location improvements. 
 
 [Soldering instructions for One PCB with two several possibilities](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock)
+
+[Dedicated page for this PCB here](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock).
 
 
 ![PCB-ESP32WoordklokV005-3D](https://github.com/user-attachments/assets/299e510a-55e8-4467-b858-ce35162ae445)
