@@ -45,7 +45,7 @@ PCB design V005 has some minor part and text location improvements.
 This PCB is designed to be used in the small side of a clock. It contains the minimum amount of parts.
 There are connections for an optional rotary encoder to control the optional DS3232 RTC time module when WIFI/NTP is not available.
 
-[See here for the word clock for this PCB](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclockhttps://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock)
+[See here for the word clock for this PCB](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock)
 
 ![V02 Small Nano ESP32](https://github.com/user-attachments/assets/8e74c62e-4558-4bc3-980b-12116fde90aa)
 
