@@ -57,6 +57,8 @@ There are connections for an optional rotary encoder to control the optional DS3
 
 ![V02 Small Nano ESP32-3D](https://github.com/user-attachments/assets/5982dfa4-df37-43ca-9d5b-2ef0064d8268)
 
+![SmallV02PCBlife](https://github.com/user-attachments/assets/f0c82213-8977-4391-a50c-25f92cd3d5d7)
+
 
 
 # Arduino Nano ESP32 HC595 shiftregister PCB
