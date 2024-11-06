@@ -40,6 +40,7 @@ PCB design V005 has some minor part and text location improvements.
 ![PCB-ESP32WoordklokV005](https://github.com/user-attachments/assets/21989d1f-f2e3-4f58-a290-88bbc228b994)
 
 Older versions, V001, V003 and V004, needed some missing lanes to be added. See yellow wires.
+V002 has no errors but some components cq connections are not in optimal position.
 
 ![PCBV001V002](https://github.com/user-attachments/assets/dfc4f481-87f7-44bd-87c5-56e502ec07b0)
 
