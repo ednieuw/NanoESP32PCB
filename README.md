@@ -26,25 +26,22 @@ See https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock
 [Special designed for a RGB(W)](https://github.com/ednieuw/Arduino-ESP32-Nano-Wordclock) and white led strip word clock.(https://github.com/ednieuw/Woordklok-witte-LEDs).
 
 
-Designs V001, V003 and V004 has missing connections as shown on the pictures. 
-Design V002 is without errors ready to use. 
+Design V002 is without errors ready to use but some components cq connections are not in optimal position.<br> 
 PCB design V005 has some minor part and text location improvements. 
 
 [Soldering instructions for One PCB with two several possibilities](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock)
 
-[Dedicated page for this PCB here](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock).
+[Dedicated page for the use of this PCB here](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock).
 
+![PCB-ESP32WoordklokV005](https://github.com/user-attachments/assets/9e4f3514-de9f-473d-befb-e5ae368d3bb1)
 
-![PCB-ESP32WoordklokV005-3D](https://github.com/user-attachments/assets/299e510a-55e8-4467-b858-ce35162ae445)
+![PCB-ESP32WoordklokV005](https://github.com/user-attachments/assets/92176798-d462-43d1-b163-7c878dadbfb0)
 
-![PCB-ESP32WoordklokV005](https://github.com/user-attachments/assets/21989d1f-f2e3-4f58-a290-88bbc228b994)
-
-Older versions, V001, V003 and V004, needed some missing lanes to be added. See yellow wires.
-V002 has no errors but some components cq connections are not in optimal position.
-
+Designs V001, V003 and V004 has missing connections as shown on the pictures. These designs are kept for my own reference.<br> 
 ![PCBV001V002](https://github.com/user-attachments/assets/dfc4f481-87f7-44bd-87c5-56e502ec07b0)
 
-![PCBV003V004](https://github.com/user-attachments/assets/59c910aa-bd51-4029-9d32-91d3ba34cee0)
+![PCBV003V004](https://github.com/user-attachments/assets/5a68836e-a269-4a7f-9adb-8a0c8d68cb97)
+
 
 
 # Arduino Nano ESP32 small PCB
