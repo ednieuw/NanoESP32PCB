@@ -1,7 +1,9 @@
 # Nano ESP32 word clocks.
 On this page PCB (printed circuit boards) designs are shown designed for the Arduino Nano ESP32.
+![image](https://github.com/user-attachments/assets/4bee4116-e8eb-43e1-89f7-a30ab3eb7112)<br>
+Soldered boards. On all it is possible to attach a LDR, rotary encoder and DS3231 RTC
 
-The Arduino Nano ESP32 PCB can be used to built a word clock with WS2812 or SK6812 LED-strips.
+The Arduino Nano ESP32 PCB is used to built a word clock with WS2812 or SK6812 LED-strips.
 
 The larger Ultimate Arduino Nano ESP32 PCB is designed to use shift registers combined with Darlington array IC's to turn on white 12V LEDs connected to one of the 24 pins. With this PCB it is also possible to use WS2812/SK6812 and many more hardware.
 
